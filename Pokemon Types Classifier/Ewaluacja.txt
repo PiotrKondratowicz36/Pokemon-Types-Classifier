@@ -1,0 +1,188 @@
+TEST 1
+Accuracy:   0.8878504672897196
+Precision:  0.8878504672897196
+Recall:     0.8878504672897196
+F-score:    0.8878504672897196
+
+              precision    recall  f1-score   support
+
+        FIRE       0.88      0.95      0.91        22
+       WATER       0.92      0.96      0.94        23
+       GRASS       0.94      0.84      0.89        19
+    ELECTRIC       0.93      0.72      0.81        18
+      GROUND       0.82      0.92      0.87        25
+
+    accuracy                           0.89       107
+   macro avg       0.90      0.88      0.88       107
+weighted avg       0.89      0.89      0.89       107
+
+
+TEST 2
+Accuracy:   0.9065420560747663
+Precision:  0.9065420560747663
+Recall:     0.9065420560747663
+F-score:    0.9065420560747663
+
+              precision    recall  f1-score   support
+
+        FIRE       1.00      0.96      0.98        27
+       WATER       0.87      0.91      0.89        22
+       GRASS       1.00      0.80      0.89        20
+    ELECTRIC       0.80      0.73      0.76        11
+      GROUND       0.84      1.00      0.92        27
+
+    accuracy                           0.91       107
+   macro avg       0.90      0.88      0.89       107
+weighted avg       0.91      0.91      0.91       107
+
+
+TEST 3
+Accuracy:   0.9345794392523364
+Precision:  0.9345794392523364
+Recall:     0.9345794392523364
+F-score:    0.9345794392523366
+
+              precision    recall  f1-score   support
+
+        FIRE       0.90      1.00      0.95        19
+       WATER       0.93      0.96      0.95        27
+       GRASS       1.00      0.89      0.94        18
+    ELECTRIC       1.00      0.76      0.87        17
+      GROUND       0.90      1.00      0.95        26
+
+    accuracy                           0.93       107
+   macro avg       0.95      0.92      0.93       107
+weighted avg       0.94      0.93      0.93       107
+
+
+TEST 4
+Accuracy:   0.8878504672897196
+Precision:  0.8878504672897196
+Recall:     0.8878504672897196
+F-score:    0.8878504672897196
+
+              precision    recall  f1-score   support
+
+        FIRE       1.00      0.96      0.98        26
+       WATER       0.91      0.95      0.93        21
+       GRASS       0.94      0.76      0.84        21
+    ELECTRIC       0.88      0.74      0.80        19
+      GROUND       0.74      1.00      0.85        20
+
+    accuracy                           0.89       107
+   macro avg       0.89      0.88      0.88       107
+weighted avg       0.90      0.89      0.89       107
+
+
+TEST 5
+Accuracy:   0.897196261682243
+Precision:  0.897196261682243
+Recall:     0.897196261682243
+F-score:    0.897196261682243
+
+              precision    recall  f1-score   support
+
+        FIRE       0.95      0.91      0.93        22
+       WATER       0.86      0.83      0.84        23
+       GRASS       1.00      0.94      0.97        18
+    ELECTRIC       0.89      0.84      0.86        19
+      GROUND       0.83      0.96      0.89        25
+
+    accuracy                           0.90       107
+   macro avg       0.91      0.90      0.90       107
+weighted avg       0.90      0.90      0.90       107
+
+
+TEST 6
+Accuracy:   0.8878504672897196
+Precision:  0.8878504672897196
+Recall:     0.8878504672897196
+F-score:    0.8878504672897196
+
+              precision    recall  f1-score   support
+
+        FIRE       0.91      0.87      0.89        23
+       WATER       0.81      1.00      0.89        17
+       GRASS       1.00      0.91      0.95        23
+    ELECTRIC       1.00      0.79      0.88        19
+      GROUND       0.79      0.88      0.83        25
+
+    accuracy                           0.89       107
+   macro avg       0.90      0.89      0.89       107
+weighted avg       0.90      0.89      0.89       107
+
+
+TEST 7
+Accuracy:   0.8504672897196262
+Precision:  0.8504672897196262
+Recall:     0.8504672897196262
+F-score:    0.850467289719626
+
+              precision    recall  f1-score   support
+
+        FIRE       0.97      0.88      0.92        32
+       WATER       0.87      0.95      0.91        21
+       GRASS       1.00      0.88      0.93        16
+    ELECTRIC       0.90      0.53      0.67        17
+      GROUND       0.65      0.95      0.77        21
+
+    accuracy                           0.85       107
+   macro avg       0.88      0.84      0.84       107
+weighted avg       0.88      0.85      0.85       107
+
+
+TEST 8
+Accuracy:   0.8598130841121495
+Precision:  0.8598130841121495
+Recall:     0.8598130841121495
+F-score:    0.8598130841121495
+
+              precision    recall  f1-score   support
+
+        FIRE       0.89      0.85      0.87        20
+       WATER       0.75      0.88      0.81        17
+       GRASS       0.93      0.93      0.93        14
+    ELECTRIC       0.93      0.70      0.80        20
+      GROUND       0.85      0.92      0.88        36
+
+    accuracy                           0.86       107
+   macro avg       0.87      0.86      0.86       107
+weighted avg       0.87      0.86      0.86       107
+
+
+TEST 9
+Accuracy:   0.8691588785046729
+Precision:  0.8691588785046729
+Recall:     0.8691588785046729
+F-score:    0.8691588785046729
+
+              precision    recall  f1-score   support
+
+        FIRE       0.86      0.90      0.88        21
+       WATER       0.82      1.00      0.90        18
+       GRASS       0.95      0.86      0.90        21
+    ELECTRIC       1.00      0.71      0.83        28
+      GROUND       0.75      0.95      0.84        19
+
+    accuracy                           0.87       107
+   macro avg       0.88      0.88      0.87       107
+weighted avg       0.89      0.87      0.87       107
+
+
+TEST 10
+Accuracy:   0.9065420560747663
+Precision:  0.9065420560747663
+Recall:     0.9065420560747663
+F-score:    0.9065420560747663
+
+              precision    recall  f1-score   support
+
+        FIRE       0.76      1.00      0.87        13
+       WATER       0.93      0.97      0.95        29
+       GRASS       1.00      0.83      0.90        23
+    ELECTRIC       0.94      0.81      0.87        21
+      GROUND       0.87      0.95      0.91        21
+
+    accuracy                           0.91       107
+   macro avg       0.90      0.91      0.90       107
+weighted avg       0.92      0.91      0.91       107
